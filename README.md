@@ -3,7 +3,7 @@
 - 🔭 Hoje estou em transição de carreira
 - 🌱 Estudando Software Developer
 
-## Tecnologias que uso no meu dia a dia
+## Tecnologias a que me dedico
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
