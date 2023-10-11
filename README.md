@@ -2,6 +2,7 @@
 
 - 🔭 Hoje estou em transição de carreira
 - 🌱 Estudando Software Developer
+- 💻 Trainee iOS Developer
 
 ## Tecnologias a que me dedico
 
