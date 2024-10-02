@@ -1,6 +1,9 @@
 👋 Olá, sou Jessica Soares!
-💻 Sou Software Developer Jr com foco em Mobile, React e AI. Atualmente, estou trabalhando em projetos que envolvem AI para uma empresa luso-brasileira. 
+
+💻 Sou Software Developer Jr com foco em Mobile, React e AI. Atualmente, estou trabalhando em projetos que envolvem AI para uma empresa luso-brasileira.
+
 🌱 Meu objetivo é aprimorar minhas habilidades e colaborar em projetos de código aberto.
+
 📫 Vamos nos conectar! 
 
 ## Tecnologias a que me dedico
