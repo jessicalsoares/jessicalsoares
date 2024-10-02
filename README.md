@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Jéssica Soares 👋
 
-- 🔭 Hoje estou em transição de carreira
-- 🌱 Estudando Software Developer
-- 💻 Trainee iOS Developer
+- 💻Software Developer Jr
 
 ## Tecnologias a que me dedico
 
