@@ -1,5 +1,9 @@
 # Hello, I'm Jéssica Soares
-💻 Software Developer com foco em Mobile, React e AI. <br>🚀Atualmente, estou trabalhando em projetos que envolvem AI para uma empresa luso-brasileira.<br>🌱 Meu objetivo é aprimorar minhas habilidades e colaborar em projetos de código aberto.<br>📫 Vamos nos conectar!
+💻 Software Developer focused on Mobile, React, and Artificial Intelligence.<br>
+🚀 Currently working on AI-driven projects for a Portuguese-Brazilian company.<br>
+🌱 Passionate about learning and contributing to open source.<br>
+📫 Open to collaboration and networking!<br>
+
 
 
 # Socials:
